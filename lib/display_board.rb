@@ -8,3 +8,7 @@ def display_board
 end
 
 display_board(board)
+
+
+board[0] = X 
+
